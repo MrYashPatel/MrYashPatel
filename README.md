@@ -59,19 +59,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrYashPatel&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400">
 </div>
 
-<div align="center">
-  <table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=MrYashPatel&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
-<td>
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MrYashPatel&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
-</td>
-</tr>
-</table>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MrYashPatel&theme=onedark&date_format=M%20j%5B%2C%20Y%5D&dates=737373&ring=DD8484&fire=E25822&stroke=00000000&currStreakNum=DD0D4F&currStreakLabel=A6A6A6&border=00000000&background=161B22" />
-</div>
-
 ---
 
 ## 🏆 GitHub Trophies
