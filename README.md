@@ -6,9 +6,6 @@
   </a>
 </h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yashkumar-patel11/)](https://www.linkedin.com/in/yashkumar-patel11/)
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yashkumarpatel11@gmail.com)](mailto:yashkumarpatel11@gmail.com)
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrYashPatel&theme=dracula" alt="GitHub activity graph" />
 </p>
