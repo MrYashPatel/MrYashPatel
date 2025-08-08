@@ -6,8 +6,6 @@
   </a>
 </h1>
 
-I graduated from a Web Design and Development post-graduate program at Conestoga College , Kitchener. I also hold a bachelor’s degree in Computer Science Engineering. I have 2 years of experience working as a Full Stack Developer in the IT industry.
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yashkumar-patel11/)](https://www.linkedin.com/in/yashkumar-patel11/)
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yashkumarpatel11@gmail.com)](mailto:yashkumarpatel11@gmail.com)
 
