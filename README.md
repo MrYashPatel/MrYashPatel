@@ -59,6 +59,20 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LondheShubham153&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400">
 </div>
 
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=MrYashPatel&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
+<td>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MrYashPatel&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+</td>
+</tr>
+<td align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MrYashPatel&theme=onedark&date_format=M%20j%5B%2C%20Y%5D&dates=737373&ring=DD8484&fire=E25822&stroke=00000000&currStreakNum=DD0D4F&currStreakLabel=A6A6A6&border=00000000&background=161B22" />
+</td>
+
+</table>
+
 ---
 
 ## 🏆 GitHub Trophies
@@ -95,20 +109,3 @@
 [![GitHub followers](https://img.shields.io/github/followers/MrYashPatel?label=Follow&style=social)](https://github.com/MrYashPatel)
 
 </div>
-
-
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=MrYashPatel&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
-<td>
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MrYashPatel&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
-</td>
-</tr>
-<td align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MrYashPatel&theme=onedark&date_format=M%20j%5B%2C%20Y%5D&dates=737373&ring=DD8484&fire=E25822&stroke=00000000&currStreakNum=DD0D4F&currStreakLabel=A6A6A6&border=00000000&background=161B22" />
-</td>
-<td>
-<img src="https://api.githubtrends.io/user/svg/MrYashPatel/langs?time_range=one_year&include_private=True&theme=synthwaves" />
-</td>
-</table>
