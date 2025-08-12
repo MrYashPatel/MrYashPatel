@@ -79,7 +79,7 @@
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashkumar-patel11/)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/onecuriousbrat/)
-[![Email](https://img.shields.io/badge/Email-trainwithshubham@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashkumarpatel11@gmail.com)
+[![Email](https://img.shields.io/badge/Email-yashkumarpatel11@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashkumarpatel11@gmail.com)
 
 </div>
 
